@@ -1,0 +1,7 @@
+.box1 {
+  height: 100vh;
+  background-color: seagreen;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
